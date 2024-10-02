@@ -11,3 +11,7 @@ class CommonModel(models.Model):
 
     class Meta:
         abstract = True
+
+
+# test
+# test
